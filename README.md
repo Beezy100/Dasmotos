@@ -1,3 +1,0 @@
-# Dasmotos
-Codecademy
-ftfyugug
