@@ -4,7 +4,7 @@ h1 {
     font-weight: bold;
     color: khaki;
     text-align: center;
-    background-image: url('resources/image/image1.jpeg');
+    background-image: url("assets/images/image1.jpeg");
 }
 
 h3 {
